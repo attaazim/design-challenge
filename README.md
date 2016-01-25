@@ -50,6 +50,7 @@ We value good communication skills. If you get stuck and can't finish the challe
 - [GitHub](https://github.com/)
 - [CampDoc](www.campdoc.com/) (if you wanna suckup 😝)
 - [FontAwesome](http://fontawesome.io/)
+- [ZomboCom](http://www.zombo.com/)
 - [Nike](http://www.nike.com/us/en_us/)
 - [H&M](http://www.hm.com/us/)
 
