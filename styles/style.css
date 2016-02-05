@@ -1,16 +1,17 @@
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: white;
-    font-size: 15px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  font-size: 15px;
 }
 
 li {
-    float: right;
+  float: right;
 }
 
+/*button*/
 .signIn {
   background-color: #4285f4;
   color: white;
@@ -18,6 +19,7 @@ li {
   float: left;
 }
 
+/*sign in link*/
 .sign_link {
   color: white;
   font-weight: bold;
@@ -26,22 +28,6 @@ li {
   bottom: 5px;
   float: left;
 }
-
-
-ul .list1 {
-  position: relative;
-  display: inline-block;
-  float: left;
-  list-style-type: none;
-  bottom: 50px;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: white;
-  font-size: 15px;
-
-}
-
 
 .footerleft {
   float: left;
@@ -57,38 +43,42 @@ ul .list1 {
   font-size: small;
 }
 
+/*Attaullah, Gmail, Images*/
 li a {
   display: inline-block;
   color: gray;
-     background-color: transparent;
+  background-color: transparent;
   text-align: center;
-    padding: 10px 10px;
-    text-decoration: none;
-    float: right;
-    position: relative;
-    right: 50px;
+  padding: 10px 10px;
+  text-decoration: none;
+  float: right;
+  position: relative;
+  right: 50px;
 }
 
-
+/*google icon, search bar, buttons*/
 .center {
-    margin: auto;
-    width: 25%;
-    height: 10%;
-    *padding: 10px;
+  margin: auto;
+  width: 25%;
+  height: 10%;
+  *padding: 10px;
 }
 
+/*google icon*/
 img {
   position: relative;
   top: 120px;
   left: 27px;
 }
 
+/*search bar*/
 input {
   position: relative;
   top: 120px;
   right: 130px;
 }
 
+/*google search, i'm feeling lucky*/
 .button {
   display: inline-block;
   position: relative;
