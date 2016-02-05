@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+</head>
+<body>
+
+<div id = "container">
+
+<ul>
+  <li>
+    <button class = "signIn" type="button"; style = "width: 90px; height: 32px; top: 0px;"><a class = "sign_link" href = "https://accounts.google.com/" </a> Sign In </button>
+  </li> 
+  <li><a href="#">Images</a></li>
+  <li><a href="https://mail.google.com/">Gmail</a></li>
+  <li><a href="https://www.linkedin.com/in/attaullahazim">Attaullah</a></li>
+  
+</ul>
+
+
+
+<div class = "center">
+  <div class = "img">
+    <img src = "googleicon.jpg" alt = "Google Icon" style = "width: 275px; height: 148px;">
+  </div>  
+
+  <div class = "input">
+    <input type = "text" style = "height: 32px; width: 600px;">
+  </div>  
+
+  <div>
+    <button class = "button" type = "button"; style = "width: 120px; height: 32px;"> Google Search </button>
+    <button class = "button" type = "button"; style = "width: 140px; height: 32px;"> I'm Feeling Lucky </button>
+    
+  </div>  
+</div>
+
+
+
+</div>
+
+
+<div id = "footer"> 
+  <p class="footerleft">&nbsp Advertising &nbsp &nbsp</p>
+  <p class="footerleft">Business &nbsp &nbsp</p>
+  <p class = "footerleft"> About </p>
+  <p class="footerright"> Settings &nbsp</p>
+  <p class="footerright"> Terms &nbsp &nbsp</p>
+  <p class="footerright"> Privacy &nbsp &nbsp</p>
+  <div style="clear: both"></div>
+</div>  
+
+
+
+</body>
+</html>
