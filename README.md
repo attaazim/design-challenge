@@ -61,8 +61,8 @@ Well don't whine about it! We're looking for software developers who have varied
 ## Solution Discussion
 **Answer these questions before submitting your pull request!**
 - Why did you choose the website you did?
- - // answer here
+ - // This is the default home page for millions of users around the world. I was wondering how well of an imitation I could create.
 - What challenges did you face while building your site?
-  - // answer here
+  - // Using CSS without Bootstrap was challenging, yet a good experience.
 - What would you do differently next time?
-  - // answer here
+  - // I would make my website more responsive.
